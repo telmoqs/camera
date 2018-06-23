@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Qual vestuário?</string>
+    <string name="error_permission_not_granted">Permissão negada!</string>
+    <string name="permission_request_canceled">Operação Cancelada!</string>
+    <string name="title_error">Ocorreu um erro!</string>
+    <string name="label_ok">ok</string>
+    <string name="btn_take_pic">Tirar uma foto</string>
+    <string name="digite_boneChapeu">Digite detalhes do Bone/Chapéu: </string>
+    <string name="digite_camisaBlusa">Digite detalhes da Camisa/Blusa: </string>
+    <string name="digite_shortCalca">Digite detalhes do Short/Calça/Saia: </string>
+    <string name="digite_calcado">Digite detalhes do Sapato/Tênis/Sapatilha: </string>
+    <string name="label_boneChapeu">Boné ou Chapeu</string>
+    <string name="label_camisaBlusa">Camisa, blusa, camiseta, etc.</string>
+    <string name="label_shortCalca">Short, calça, saia, etc.</string>
+    <string name="label_calcado">Sapato, tênis, sapatilha, etc.</string>
+
+</resources>
